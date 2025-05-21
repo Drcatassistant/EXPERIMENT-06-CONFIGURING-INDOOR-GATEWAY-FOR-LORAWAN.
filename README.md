@@ -1,5 +1,7 @@
 # EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
 
+## Name: Jackson Raj.A
+## Reg no: 21223040071
 ## Aim: 
 
 To  configure  Dragino LPS8 Indoor LoRaWAN gateway for things  network .
